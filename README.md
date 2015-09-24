@@ -22,9 +22,10 @@ MVP - Por que não iniciar um projeto MVP com uma arquitetura bacana para no fut
 ## A importância de uma arquitetura robusta
 
 # Por que?
-
+A cada nova contratação ou alteração de quadro de pessoal é a mesma dor de cabeça, a curva de aprendizagem para entender o que o software faz e como faz. Aprender os padrões do programador antigo, como evitar isso? Utilizando uma arquitetura organizada com padrões bem definidos, a preocupação na hora de contratar será bem menor, considerando que você poderá buscar profissionais que já entendam determinado padrão.
 
 # Como?
+Existem milhões de padrões, entender quais se encaixam melhor com suas necessidades
 
 # Quandow
 
