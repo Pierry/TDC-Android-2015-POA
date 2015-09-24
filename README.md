@@ -37,18 +37,18 @@ Uma arquitetura bacana, ajudará todos os desenvolvedores que interagem com o si
 ## SOLID
 
 Identificados por Uncle Bob (Robert C. Martin) por volta dos anos 2000, os princípios SOLID tem o objetivo de:
-Ser fácil de se manter, adaptar e se ajustar às alterações de escopo;
-Ser testável e de fácil entendimento;
-Ser extensível para alterações com o menor esforço necessário;
-Que forneça o máximo de reaproveitamento;
-Que permaneça o máximo de tempo possível em utilização.
+- Ser fácil de se manter, adaptar e se ajustar às alterações de escopo;
+- Ser testável e de fácil entendimento;
+- Ser extensível para alterações com o menor esforço necessário;
+- Que forneça o máximo de reaproveitamento;
+- Que permaneça o máximo de tempo possível em utilização.
 
 Utilizando os princípios SOLID é possível evitar problemas muito comuns:
-Dificuldade na testabilidade / criação de testes de unidade;
-Código macarrônico, sem estrutura ou padrão;
-Dificuldades de isolar funcionalidades;
-Duplicação de código, uma alteração precisa ser feita em N pontos;
-Fragilidade, o código quebra facilmente em vários pontos após alguma mudança.
+- Dificuldade na testabilidade / criação de testes de unidade;
+- Código macarrônico, sem estrutura ou padrão;
+- Dificuldades de isolar funcionalidades;
+- Duplicação de código, uma alteração precisa ser feita em N pontos;
+- Fragilidade, o código quebra facilmente em vários pontos após alguma mudança.
 
 ### SRP (Principio da Responsabilidade Única)
 Uma classe deve ter um, e somente um, motivo para mudar.
@@ -85,4 +85,8 @@ Injeção de dependência é um padrão de desenvolvimento de programas de compu
 ### Programe para uma interface
 Diminuir o acoplamento é o principal motivo. Imagine que você necessita mudar o ORM do banco de dados, programando para classes concretas você deve ir em todas as chamadas e alterar a classe, programando para uma interface, você deve apenas ir no seu container, e fazer a alteração, mantendo a coesão e a estrutura.
 
-### RoboGuice, Dagger, Android Annotations...
+##- item
+- item
+- item
+
+# RoboGuice, Dagger, Android Annotations...
