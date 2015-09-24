@@ -62,7 +62,7 @@ As classes derivadas devem ser substituíveis por suas classes base.
 ###ISP (Princípio da Segregação da Interface)
 Muitas interfaces específicas são melhores do que uma interface única.
 
-#DIP (Princípio da inversão da dependência)
+###DIP (Princípio da inversão da dependência)
 Dependa de uma abstração e não de uma implementação.
 
 
