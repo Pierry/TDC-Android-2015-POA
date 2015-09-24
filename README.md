@@ -25,12 +25,14 @@ MVP - Por que não iniciar um projeto MVP com uma arquitetura bacana para no fut
 A cada nova contratação ou alteração de quadro de pessoal é a mesma dor de cabeça, a curva de aprendizagem para entender o que o software faz e como faz. Aprender os padrões do programador antigo, como evitar isso? Utilizando uma arquitetura organizada com padrões bem definidos, a preocupação na hora de contratar será bem menor, considerando que você poderá buscar profissionais que já entendam determinado padrão.
 
 # Como?
-Existem milhões de padrões, entender quais se encaixam melhor com suas necessidades
+Existem milhões de padrões, entender quais se encaixam melhor com suas necessidades e aplicar é uma saida, além de considerar utilizar os principios SOLID, que são básicos para qualquer projeto.
 
-# Quandow
+# Quando?
+Em projetos MVP, é comum deixar de lado todas as boas práticas para entregar rápido, até que ponto é interessante ter de refazer o produto novamente? Entendo que todo o projeto deve ser criado com o mínimo de estrutura, para evoluir com escalabilidade.
 
 # Pra quem?
-
+Para nós, desenvolvedores.
+Uma arquitetura bacana, ajudará todos os desenvolvedores que interagem com o sistema, por existir um padrão base, onde o dev deve aprender o padrão e não as ideologias de cada programador.
 
 ## SOLID
 
@@ -81,5 +83,6 @@ Numa possível alteração de uma implementação sem frameworks por exemplo, pa
 Injeção de dependência é um padrão de desenvolvimento de programas de computadores utilizado quando é necessário manter baixo o nível de acoplamento entre diferentes módulos de um sistema. 
 
 # Programe para uma interface
+Diminuir o acoplamento é o principal motivo. Imagine que você necessita mudar o ORM do banco de dados, programando para classes concretas você deve ir em todas as chamadas e alterar a classe, programando para uma interface, você deve apenas ir no seu container, e fazer a alteração, mantendo a coesão e a estrutura.
 
 # RoboGuice, Dagger, Android Annotations...
