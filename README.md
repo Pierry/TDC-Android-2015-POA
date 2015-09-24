@@ -96,6 +96,10 @@ Provavelmente o mais completo e melhor, recomendadissmo, para iniciantes torna-s
 ### Android Annotations
 Fácil configuração e não possui problemas de desempenho, apenas não possui container de injeção de dependência, tendo que fazer na mão em toda classes que utilizará a interface.
 
+Aplicação de exemplo
+=======================
+
+[Backeasy](https://github.com/Pierry/Backeasy)
 
 Referências
 ========================
