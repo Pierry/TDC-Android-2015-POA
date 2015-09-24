@@ -106,4 +106,4 @@ Referências
 - [Dagger 2](http://google.github.io/dagger/)
 - [Android Annotations](https://github.com/excilys/androidannotations)
 - [https://msdn.microsoft.com/en-us/library/ff649690.aspx](Repository Pattern)
-- [Specification Pattern)(http://martinfowler.com/apsupp/spec.pdf)
+- [Specification Pattern](http://martinfowler.com/apsupp/spec.pdf)
