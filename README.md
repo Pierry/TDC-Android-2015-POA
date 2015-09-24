@@ -85,8 +85,17 @@ Injeção de dependência é um padrão de desenvolvimento de programas de compu
 ### Programe para uma interface
 Diminuir o acoplamento é o principal motivo. Imagine que você necessita mudar o ORM do banco de dados, programando para classes concretas você deve ir em todas as chamadas e alterar a classe, programando para uma interface, você deve apenas ir no seu container, e fazer a alteração, mantendo a coesão e a estrutura.
 
-##- item
-- item
-- item
+## RoboGuice, Dagger, Android Annotations
 
-# RoboGuice, Dagger, Android Annotations...
+### RoboGuice
+Fácil configuração, rápido e o container funciona muito bem, mas utiliza reflection, o que pode causar perda de desempenho.
+
+### Dagger
+Provavelmente o mais completo e melhor, recomendadissmo, para iniciantes torna-se um pouco complexo.
+
+### Android Annotations
+Fácil configuração e não possui problemas de desempenho, apenas não possui container de injeção de dependência, tendo que fazer na mão em toda classes que utilizará a interface.
+
+
+Referências
+========================
