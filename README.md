@@ -3,6 +3,8 @@ TDC 2015 (Porto Alegre) Trilha Android
 O objetivo da apresentação é demonstrar que um aplicativo com uma arquitetura bem estruturada, facilita muito o entendimento e a manutenção do código, principalmente em softwares que tendem a receber atualização por um grande período.
 Em casos de rotatividade na empresa, a curva de aprendizado pode ser facilmente contornada quando existem padrões que servem de pré requisito para a busca de um novo colaborador.
 
+https://docs.google.com/presentation/d/11Z4k4Fh-gHKMC7z8ITGsvlPIct97c2tzf3RkpZrVuAk/edit?usp=docslist_api
+
 Como está a arquitetura de seu app?
 ======================
 
